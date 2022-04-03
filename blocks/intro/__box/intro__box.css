@@ -1,0 +1,22 @@
+.intro__box{
+    max-width: 690px;
+}
+
+@media screen and (max-width: 1024px) {
+    .intro__box {
+      max-width: 690px;
+    }
+}
+
+@media screen and (max-width: 928px) {
+  .intro__box {
+    max-width: calc(100% - 48px);
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .intro__box {
+    max-width: calc(100% - 32px);
+  }
+}

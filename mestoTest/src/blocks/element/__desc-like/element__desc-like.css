@@ -1,0 +1,14 @@
+.element__desc-like {
+  background-color: white;
+  width: 20px;
+  height: 19px;
+  border: none;
+  margin-left: -5px;
+  padding: 0;
+  outline-style: none;
+}
+
+.element__desc-like:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}

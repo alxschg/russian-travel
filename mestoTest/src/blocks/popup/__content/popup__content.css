@@ -1,0 +1,16 @@
+.popup__content {
+  background-color: white;
+  border-radius: 10px;
+  width: calc(100% - 850px);
+  position: relative;
+  min-width: 240px;
+  max-width: 430px;
+  margin: auto;
+  margin-top: 170px;
+}
+
+@media (max-width: 767px) {
+  .popup__content {
+    width: calc(100% - 38px);
+  }
+}

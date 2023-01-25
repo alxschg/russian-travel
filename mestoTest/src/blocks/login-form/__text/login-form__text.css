@@ -1,0 +1,7 @@
+.login-form__text {
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  font-size: 14px;
+}
